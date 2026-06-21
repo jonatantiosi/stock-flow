@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Computer",
+    "quantity": 90
+  },
+  {
+    "id": 2,
+    "name": "Pen",
+    "quantity": 3
+  },
+  {
+    "id": 3,
+    "name": "9",
+    "quantity": 3
+  },
+  {
+    "id": 4,
+    "name": "Mouse",
+    "quantity": 124
+  },
+  {
+    "id": 5,
+    "name": "Camera",
+    "quantity": 3030
+  },
+  {
+    "id": 6,
+    "name": "Smart watch",
+    "quantity": 2736
+  },
+  {
+    "id": 7,
+    "name": "Tablet",
+    "quantity": 12
+  },
+  {
+    "id": 8,
+    "name": "Smart Glass",
+    "quantity": 11
+  },
+  {
+    "id": 9,
+    "name": "Keyboard",
+    "quantity": 2133
+  },
+  {
+    "id": 10,
+    "name": "Kindle",
+    "quantity": 160
+  }
+]
